@@ -1,0 +1,27 @@
+2024-01-13 15:11:38,997 - __main__ - INFO - creating file directory : .github/workflows for filename : ci.yaml
+2024-01-13 15:11:38,997 - __main__ - INFO - creating filename: ci.yaml
+2024-01-13 15:11:38,997 - __main__ - INFO - creating file directory : src for filename : __init__.py
+2024-01-13 15:11:38,997 - __main__ - INFO - creating filename: __init__.py
+2024-01-13 15:11:38,998 - __main__ - INFO - creating file directory : src/mongodb_connect for filename : __init__.py
+2024-01-13 15:11:38,998 - __main__ - INFO - creating filename: __init__.py
+2024-01-13 15:11:38,998 - __main__ - INFO - creating file directory : src/mongodb_connect for filename : mongo_crud.py
+2024-01-13 15:11:38,998 - __main__ - INFO - creating filename: mongo_crud.py
+2024-01-13 15:11:38,998 - __main__ - INFO - creating file directory : tests for filename : __init__.py
+2024-01-13 15:11:38,998 - __main__ - INFO - creating filename: __init__.py
+2024-01-13 15:11:38,999 - __main__ - INFO - creating file directory : tests/unit for filename : __init__.py
+2024-01-13 15:11:38,999 - __main__ - INFO - creating filename: __init__.py
+2024-01-13 15:11:38,999 - __main__ - INFO - creating file directory : tests/unit for filename : unit.py
+2024-01-13 15:11:38,999 - __main__ - INFO - creating filename: unit.py
+2024-01-13 15:11:38,999 - __main__ - INFO - creating file directory : tests/integration for filename : __init__.py
+2024-01-13 15:11:38,999 - __main__ - INFO - creating filename: __init__.py
+2024-01-13 15:11:39,000 - __main__ - INFO - creating file directory : tests/integration for filename : int.py
+2024-01-13 15:11:39,000 - __main__ - INFO - creating filename: int.py
+2024-01-13 15:11:39,000 - __main__ - INFO - creating filename: init_setup.sh
+2024-01-13 15:11:39,000 - __main__ - WARNING - filepath requirements.txt already exists
+2024-01-13 15:11:39,000 - __main__ - INFO - creating filename: requirements_dev.txt
+2024-01-13 15:11:39,001 - __main__ - INFO - creating filename: setup.py
+2024-01-13 15:11:39,001 - __main__ - INFO - creating filename: setup.cfg
+2024-01-13 15:11:39,001 - __main__ - INFO - creating filename: pyproject.toml
+2024-01-13 15:11:39,001 - __main__ - INFO - creating filename: tox.ini
+2024-01-13 15:11:39,001 - __main__ - INFO - creating file directory : experiments for filename : experiments.ipynb
+2024-01-13 15:11:39,002 - __main__ - INFO - creating filename: experiments.ipynb
